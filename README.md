@@ -1,3 +1,5 @@
+This data was uploaded to [Kaggle](https://www.kaggle.com/datasets/nguyentiennhan/vietnam-housing-dataset-2024)
+
 **Dataset Description**: This dataset contains information about various housing properties in Vietnam. It includes detailed attributes of each property, such as its location, physical characteristics, and legal and furnishing status, along with the price. This dataset can be useful for real estate analysis, price prediction models, and market trend analysis.
 
 **Data Collection**: The data was crawled from batdongsan.vn
